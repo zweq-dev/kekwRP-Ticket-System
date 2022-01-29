@@ -1,5 +1,5 @@
 
-# KEKWRP Discord Ticket System
+# kekwRP Discord Ticket System
 
 discord.gg/kekwrp sunucusunda kullanılan *Ticket* botunun kaynak kodlarıdır.
 
