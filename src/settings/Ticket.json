@@ -1,0 +1,8 @@
+{
+    "__comment": "Rollerin isimlerini girin! -ID değil İsim-",
+    "Stuff": "Staff",
+    "Manager": "Management",
+    "Owner": "Owner",
+
+    "TicketCategoryID": ""
+}
